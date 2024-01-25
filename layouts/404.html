@@ -1,0 +1,70 @@
+<html>
+  <head>
+    <title>ABC feat. 404</title>
+    <mete content="Oh shit, eine 404!" name="description">
+    <meta content="INDEX, FOLLOW" name="GOOGLEBOT"/>
+    <meta content="index, follow, all" name="robots"/>
+    <meta content="all" name="googlebot"/>
+    <meta content="all" name="msnbot"/>
+    <meta content="all" name="Googlebot-Image"/>
+    <meta content="all" name="Slurp"/>
+    <meta content="all" name="ZyBorg"/>
+    <meta content="all" name="Scooter"/>
+    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0">
+    <meta http-equiv="Content-Type" content="text/ht	ml;charset=utf-8" />
+    <link rel="shortcut icon" href="/img/favicons/favicon16.png" sizes="16x16"/>
+    <link rel="shortcut icon" href="/img/favicons/favicon32.png" sizes="32x32"/>
+    <link rel="shortcut icon" href="/img/favicons/favicon48.png" sizes="48x48"/>
+    <meta name="msapplication-TileColor" content="black">
+    <style>
+      html{
+        background: black;
+        font-family: sans-serif;
+      }
+      a{
+        text-align: center;
+        text-transform: lowercase;
+        font-weight: bold;
+        text-decoration: none;
+        position: fixed;
+        left:50%;
+        -webkit-transform: translateX(-50%);
+        transform: translateX(-50%);
+        bottom: 32px;
+        font-size: 1em;
+        padding-bottom: 3px;
+        border-bottom: 2px solid yellow;
+        color: yellow !important;
+        animation-name: colorChangeWithHUERotate;
+        animation-duration: 2s;
+        animation-iteration-count: infinite;
+        transition: border 0.3s ease-in-out;
+      }
+      a:hover{
+        border-width: calc(calc(100vh - 32px) - 2em);
+      }
+      #img{
+          position: fixed;
+          top: 20%;
+          left: 20%;
+          height: 60%;
+          width: 60%;
+          background: url(/img/graphics/logoWithHUE.png), transparent;
+          background-position: center;
+          background-size: contain;
+          background-repeat: no-repeat;
+          animation-name: colorChangeWithHUERotate;
+          animation-duration: 2s;
+          animation-iteration-count: infinite;
+      }
+      @keyframes colorChangeWithHUERotate {
+        0% { -webkit-filter: hue-rotate(0deg); filter: hue-rotate(0deg);}
+        100% { -webkit-filter: hue-rotate(0deg);filter: hue-rotate(361deg);}
+      }
+    </style>
+  </head>
+  <body>
+    <div id="img"></div><br>
+    <a href="/" title="Beam me up!">Zum Festival</a>
+  </body>
+</html>

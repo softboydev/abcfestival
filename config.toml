@@ -1,0 +1,35 @@
+baseURL = "https://abcfestival.de"
+languageCode = "de-de"
+title = "ABC* Festival"
+staticDir = "static"
+disableHugoGeneratorInject = true
+uglyURLs = false
+publishDir = "public"
+defaultContentLanguage = "de"
+disableKinds = ["categories", "taxonomieTerm", "RSS"]
+[params]
+description = "Das ABC*-Festival ist ein Hamburger Festival für installative Räume"
+news = [
+["Das ABC-Festival 2020 findet nicht statt","https://abcfestival.de"],
+["Wir kooperieren jetzt mit Hallo eV","https://hallohallohallo.org/de"],
+["Das ABC-Festival findet 2021 in der Schaltzentrale statt","https://abcfestival.de"]
+]
+[taxonomies]
+# none
+[permalinks]
+pages="/:filename/"
+posts="/:filename/"
+[blackfriday]
+	hrefTargetBlank = true
+[outputs]
+home = [ "HTML"]
+# [[menu.main]]
+# identifier = "xyzfestival"
+# name = "XYZ* Projekt"
+# url = "https://xyzprojekt.de"
+# weight = 100
+# [[menu.footer]]
+# identifier = "copyright"
+# name = "(C)branko3000"
+# url = "https://branko3000.de"
+# weight = 100

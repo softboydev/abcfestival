@@ -1,0 +1,16 @@
+
+{{ $zzz := resources.Get "js/zzz.js"}}
+{{ $model := resources.Get "js/model.js"}}
+{{ $scripts := slice $zzz $model | resources.Concat "scripts.js" | minify | fingerprint }}
+<script src="{{ $scripts.Permalink }}"></script>
+<footer class="footer">
+  <div class="footer_inner">
+    {{ range .Site.Menus.main }}
+    <div>
+      <a href="{{.URL}}" title="{{.Name}}">
+        {{.Name}}
+      </a>
+    </div>
+    {{end}}
+  </div>
+</footer>

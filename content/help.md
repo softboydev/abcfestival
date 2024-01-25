@@ -1,0 +1,59 @@
+---
+title: "Support"
+menu: main
+
+---
+- Wir danken
+- **Gwendolyn** von der Fabrique
+- **Bene** von der Fabrique
+- **Stefan** von der Fabrique
+- **Per** von der Fabrique
+- der **MOM Galerie**
+- **Max** vom Schabernack Kollektiv
+- dem **Gängeviertel** als Ganzes
+- **Konrad**, weil er die ganzen 3 Tage auf Kamera festgehalten hat
+- **Jonas**
+- **Joanne** und dem Team für die Awareness auf dem Festival
+- **Lars Immisch** für den Weißwein
+- dem **HVV** für die Kartenhüllen
+- **Daisys Repro Wandsbek**
+- **Scharlau** für 40% Rabatt und fantastische Kaschierung
+- **Just Music** für die AMPs
+- **Trotec** für den Mixer
+- **den Lietzkes** für die Beleuchtung
+- **Carl** für seinen gewaltigen Einsatz
+- **Zazie** für den Überblick
+- **Jan** für den bösen Look
+- **Momo** fürs Saubermachen
+- **Paul Dunkler** für die Beleuchtung
+- **Nick** für die Technik und die fantastischen Visuals
+- **Simon** für die Technik
+- **Jan** von HauRaus!
+- **Rahim** von HauRaus!
+- **Jean Luce** von HauRaus!
+- **Freya** vom Schabernack Kollektiv
+- **Lionel**
+- **Lenni**
+- **Daniel**
+- **Paddy**
+- **Janna**
+- **Niklas**
+- **Robert**
+- **Marlon**
+- **Rica**
+- **Christian**
+- **Olga**
+- **Merle**
+- **Noemi**
+- **Sina**
+- **Nora**
+- **Laurin**
+- **Kira**
+- **Clarissa**
+- **Arian**
+- **Onur**
+- **Li**
+- **Marijke**
+- **Elias**
+- **Jan**
+- sowie unsere Türsteher
